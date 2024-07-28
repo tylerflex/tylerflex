@@ -12,7 +12,7 @@ In late 2019, I completed my PhD in applied physics from Stanford University wor
 
 Since then I have been developing technology for fast, large scale electromagnetic simulations at [Flexcompute Inc.](https://www.flexcompute.com/).
 
-For more information on my projects, check out my [personal website]([twhughes.github.io](https://twhughes.github.io)) or my [google scholar profile](https://scholar.google.com/citations?user=-AHhToYAAAAJ&hl=en)
+For more information on my projects, check out my [personal website](https://twhughes.github.io) or my [google scholar profile](https://scholar.google.com/citations?user=-AHhToYAAAAJ&hl=en)
 
 
 <!--
